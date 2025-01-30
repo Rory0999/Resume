@@ -1,5 +1,5 @@
 # Switala
--Email: ![rcswitala@mines.edu](rcswitala@mines.edu)
+-Email: rcswitala@mines.edu
 - Location: Golden, CO
 
 ## Education
@@ -10,6 +10,7 @@
 - **Eagle Vail Regional Airport**
 	- Curbside Assistant 
 	- Assisted customers with baggage, information, and parking
+	- ![Eagle Airport Website](https://flyege.com/)
 - **Vail Resorts - Beaver Creek**
 	- Lift Operator 2023-2024
 		- Operated conveyors and chair lifts
