@@ -1,6 +1,7 @@
 # Switala
 -Email: rcswitala@mines.edu
 - Location: Golden, CO
+![This is a photo of me](photo.png)
 
 ## Education
 - BSc. Geophysical Engineering, Colorado School of Mines 27'
